@@ -2,6 +2,11 @@ body {
   background-color: #FF7B00;
 }
 
+header {
+  font-family: arial;
+  color: #FFDD00;
+}
+
 .image-container {
   display: flex;
   justify-content: space-between;
