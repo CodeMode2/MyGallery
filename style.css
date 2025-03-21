@@ -1,3 +1,7 @@
+body {
+  color: #FF7B00;
+}
+
 .image-container {
   display: flex;
   justify-content: space-between;
