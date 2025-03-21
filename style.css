@@ -5,6 +5,7 @@ body {
 header {
   font-family: arial;
   color: #FFDD00;
+  text-align: center;
 }
 
 .image-container {
